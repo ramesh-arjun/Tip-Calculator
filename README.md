@@ -8,7 +8,7 @@ during an economic downturn. The owner believes that customer tips can solve thi
 The existing software has an option for customers to enter tips, but it is poorly designed. The
 customer must enter in their own tip amount, if any, which disincentivizes them. Mr. XX believes that
 if there was a feature that recommended tip amounts so it was clearly visible to the customer, he
-could provide a sufficient wage to his workers (Appendix A).
+could provide a sufficient wage to his workers.
 To motivate his employees to not resign and continue Madras Mansion’s excellent service
 quality, Mr. XX suggested a program that recommends tip amounts of 10%, 15%, and 20%. He
 envisions that a customer could click on a button and have that corresponding tip amount displayed.
