@@ -48,6 +48,8 @@ IV. The program will get the current day.
 V. The program will organize tip calculations into a table.
 VI. The program will implement the H2 database in order for the management to access the tip
 calculations table.
+
+
 VII. The management can utilize SQL queries in order to manipulate the tip calculations table.
 
 Criterion C: Development
@@ -106,8 +108,6 @@ In the interface, the user is prompted to enter their meal price. Then, a dropdo
 displayed. Depending on the day of the week, options of 10%, 15%, and 20% or 15%, 20%, and 25% are
 presented. When the user clicks the button titled “Calculate Tip,” the resulting tip calculation is displayed
 on the screen. Then, those values are added to a table which displays below the tip calculations.
-General Dropdown Menu:
-Dropdown Menu on Wednesdays:
 In the AppController class, the viewHomePage() method renders the user interface.
 The first jQuery ajax function calls the calcTip() method with a GET request. The response
 function displays the resulting tip calculation in the GUI. The second ajax function calls the save()
